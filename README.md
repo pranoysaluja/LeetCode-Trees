@@ -1,2 +1,2 @@
-# LeetCode-Trees
+# Leetcode-Trees
 Using Java
